@@ -1,16 +1,21 @@
 name: weekly-radar
 on:
   schedule:
-    - cron: "0 5 * * 5"   # Fri 05:00 UTC = Thu 10pm Pacific (9pm in winter)
-  workflow_dispatch: {}     # "Run workflow" button for manual runs
+    - cron: "0 5 * * 5"
+  workflow_dispatch: {}
 permissions:
   contents: write
+concurrency:
+  group: radar
+  cancel-in-progress: false
 jobs:
   radar:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
@@ -22,5 +27,7 @@ jobs:
           git config user.name "ai-radar-bot"
           git config user.email "ai-radar-bot@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || git commit -m "radar $(date -u +%F)"
+          git diff --cached --quiet && exit 0
+          git commit -m "radar $(date -u +%F)"
+          git pull --rebase -X theirs origin main
           git push
