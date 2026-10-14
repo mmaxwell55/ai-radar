@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T16:19:34+00:00",
+ "generated_at": "2026-10-14T16:44:53+00:00",
  "window": {
   "d7": "2026-10-07",
   "d14": "2026-09-30",
@@ -15,8 +15,8 @@
    "full_name": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-   "stars": 279114,
-   "forks": 41541,
+   "stars": 279141,
+   "forks": 41544,
    "language": "JavaScript",
    "topics": [
     "ai-agents",
@@ -33,7 +33,7 @@
    "pushed": "2026-10-12",
    "archived": false,
    "age_days": 269,
-   "stars_per_day_lifetime": 1037.6,
+   "stars_per_day_lifetime": 1037.7,
    "matched": [
     "established:claude-code",
     "established:claude",
@@ -57,8 +57,8 @@
    "full_name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "description": "The agent that grows with you",
-   "stars": 253706,
-   "forks": 55025,
+   "stars": 253710,
+   "forks": 55028,
    "language": "Python",
    "topics": [
     "ai",
@@ -80,7 +80,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 449,
-   "stars_per_day_lifetime": 565.0,
+   "stars_per_day_lifetime": 565.1,
    "matched": [
     "established:claude-code",
     "established:claude",
@@ -102,8 +102,8 @@
    "full_name": "deepseek-ai/deepseek-harness",
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
-   "stars": 249574,
-   "forks": 30007,
+   "stars": 249585,
+   "forks": 30006,
    "language": "TypeScript",
    "topics": [
     "ai-agents",
@@ -116,7 +116,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 62,
-   "stars_per_day_lifetime": 4025.4,
+   "stars_per_day_lifetime": 4025.6,
    "matched": [
     "established:ai-agents"
    ],
@@ -128,8 +128,8 @@
    "full_name": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-   "stars": 233424,
-   "forks": 58232,
+   "stars": 234044,
+   "forks": 58400,
    "language": "TypeScript",
    "topics": [
     "agent-skills",
@@ -158,7 +158,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 183,
-   "stars_per_day_lifetime": 1275.5,
+   "stars_per_day_lifetime": 1278.9,
    "matched": [
     "established:claude-code",
     "established:agent-skills",
@@ -230,7 +230,7 @@
    "full_name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. \ud83d\udd25",
-   "stars": 191468,
+   "stars": 191473,
    "forks": 10124,
    "language": "TypeScript",
    "topics": [
@@ -277,7 +277,7 @@
    "full_name": "Significant-Gravitas/AutoGPT",
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "stars": 187569,
+   "stars": 187570,
    "forks": 45920,
    "language": "Python",
    "topics": [
@@ -308,16 +308,16 @@
    "stars_gained_7d": null,
    "growth_basis": "no prior snapshot yet",
    "latest_release": {
-    "tag": "autogpt-platform-beta-v0.8.3",
-    "published": "2026-10-08",
-    "url": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.8.3"
+    "tag": "autogpt-platform-beta-v0.8.4",
+    "published": "2026-10-14",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.8.4"
    }
   },
   {
    "full_name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 183135,
+   "stars": 183139,
    "forks": 18272,
    "language": "Go",
    "topics": [
@@ -359,7 +359,7 @@
    "full_name": "anthropics/skills",
    "url": "https://github.com/anthropics/skills",
    "description": "Public repository for Agent Skills",
-   "stars": 181092,
+   "stars": 181095,
    "forks": 21432,
    "language": "Python",
    "topics": [
@@ -382,8 +382,8 @@
    "full_name": "f/prompts.chat",
    "url": "https://github.com/f/prompts.chat",
    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-   "stars": 172949,
-   "forks": 22138,
+   "stars": 172953,
+   "forks": 22139,
    "language": "HTML",
    "topics": [
     "ai",
@@ -423,7 +423,7 @@
    "full_name": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
    "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "stars": 167675,
+   "stars": 167676,
    "forks": 34862,
    "language": "Python",
    "topics": [
@@ -469,8 +469,8 @@
    "full_name": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-   "stars": 163346,
-   "forks": 8801,
+   "stars": 163360,
+   "forks": 8802,
    "language": "JavaScript",
    "topics": [
     "agent-skills",
@@ -489,7 +489,7 @@
    "pushed": "2026-10-13",
    "archived": false,
    "age_days": 124,
-   "stars_per_day_lifetime": 1317.3,
+   "stars_per_day_lifetime": 1317.4,
    "matched": [
     "established:claude-code",
     "established:claude",
@@ -510,7 +510,7 @@
    "full_name": "Snailclimb/JavaGuide",
    "url": "https://github.com/Snailclimb/JavaGuide",
    "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-   "stars": 159020,
+   "stars": 159021,
    "forks": 46117,
    "language": "JavaScript",
    "topics": [
@@ -545,7 +545,7 @@
    "full_name": "langgenius/dify",
    "url": "https://github.com/langgenius/dify",
    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-   "stars": 158458,
+   "stars": 158459,
    "forks": 25037,
    "language": "TypeScript",
    "topics": [
@@ -594,7 +594,7 @@
    "full_name": "langflow-ai/langflow",
    "url": "https://github.com/langflow-ai/langflow",
    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-   "stars": 155660,
+   "stars": 155662,
    "forks": 10223,
    "language": "Python",
    "topics": [
@@ -627,8 +627,8 @@
    "full_name": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "stars": 155651,
-   "forks": 22659,
+   "stars": 155654,
+   "forks": 22660,
    "language": "Python",
    "topics": [
     "ai",
@@ -671,7 +671,7 @@
    "full_name": "langchain-ai/langchain",
    "url": "https://github.com/langchain-ai/langchain",
    "description": "The agent engineering platform.",
-   "stars": 147805,
+   "stars": 147806,
    "forks": 24795,
    "language": "Python",
    "topics": [
@@ -722,7 +722,7 @@
    "full_name": "farion1231/cc-switch",
    "url": "https://github.com/farion1231/cc-switch",
    "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-   "stars": 144226,
+   "stars": 144232,
    "forks": 9570,
    "language": "Rust",
    "topics": [
@@ -770,8 +770,8 @@
    "full_name": "Shubhamsaboo/awesome-llm-apps",
    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-   "stars": 141705,
-   "forks": 20829,
+   "stars": 141708,
+   "forks": 20831,
    "language": "Python",
    "topics": [
     "agents",
@@ -797,8 +797,8 @@
    "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-   "stars": 135756,
-   "forks": 14429,
+   "stars": 135759,
+   "forks": 14430,
    "language": "Python",
    "topics": [
     "ai-skills",
@@ -844,8 +844,8 @@
    "full_name": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "stars": 130798,
-   "forks": 20546,
+   "stars": 130800,
+   "forks": 20550,
    "language": "Python",
    "topics": [
     "ai-video-generator",
@@ -886,8 +886,8 @@
    "full_name": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-   "stars": 126417,
-   "forks": 12199,
+   "stars": 126422,
+   "forks": 12200,
    "language": "Python",
    "topics": [
     "ai-agents",
@@ -916,7 +916,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 194,
-   "stars_per_day_lifetime": 651.6,
+   "stars_per_day_lifetime": 651.7,
    "matched": [
     "established:claude-code",
     "established:mcp",
@@ -938,7 +938,7 @@
    "full_name": "browser-use/browser-use",
    "url": "https://github.com/browser-use/browser-use",
    "description": "Agents that use the browser.",
-   "stars": 117960,
+   "stars": 117964,
    "forks": 13069,
    "language": "Python",
    "topics": [
@@ -973,7 +973,7 @@
    "full_name": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-   "stars": 111777,
+   "stars": 111791,
    "forks": 6484,
    "language": "Go",
    "topics": [
@@ -1013,8 +1013,8 @@
    "full_name": "TauricResearch/TradingAgents",
    "url": "https://github.com/TauricResearch/TradingAgents",
    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-   "stars": 111151,
-   "forks": 21427,
+   "stars": 111155,
+   "forks": 21428,
    "language": "Python",
    "topics": [
     "agent",
@@ -1075,7 +1075,7 @@
    "full_name": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "description": "Production-grade engineering skills for AI coding agents.",
-   "stars": 106554,
+   "stars": 106559,
    "forks": 11089,
    "language": "JavaScript",
    "topics": [
@@ -1091,7 +1091,7 @@
    "pushed": "2026-10-13",
    "archived": false,
    "age_days": 241,
-   "stars_per_day_lifetime": 442.1,
+   "stars_per_day_lifetime": 442.2,
    "matched": [
     "established:claude-code",
     "established:agent-skills"
@@ -1109,7 +1109,7 @@
    "full_name": "rasbt/LLMs-from-scratch",
    "url": "https://github.com/rasbt/LLMs-from-scratch",
    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-   "stars": 106520,
+   "stars": 106523,
    "forks": 16390,
    "language": "Jupyter Notebook",
    "topics": [
@@ -1138,7 +1138,7 @@
    "pushed": "2026-10-02",
    "archived": false,
    "age_days": 1179,
-   "stars_per_day_lifetime": 90.3,
+   "stars_per_day_lifetime": 90.4,
    "matched": [
     "established:llm"
    ],
@@ -1150,8 +1150,8 @@
    "full_name": "paperclipai/paperclip",
    "url": "https://github.com/paperclipai/paperclip",
    "description": "The open-source app everyone uses to manage agents at work",
-   "stars": 101986,
-   "forks": 17088,
+   "stars": 101995,
+   "forks": 17093,
    "language": "TypeScript",
    "topics": [
     "acpx",
@@ -1204,7 +1204,7 @@
    "full_name": "nexu-io/open-design",
    "url": "https://github.com/nexu-io/open-design",
    "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
-   "stars": 101133,
+   "stars": 101134,
    "forks": 11641,
    "language": "TypeScript",
    "topics": [
@@ -1251,8 +1251,8 @@
    "full_name": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-   "stars": 100688,
-   "forks": 8824,
+   "stars": 100694,
+   "forks": 8825,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -1304,8 +1304,8 @@
    "full_name": "ruvnet/RuView",
    "url": "https://github.com/ruvnet/RuView",
    "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
-   "stars": 97935,
-   "forks": 12836,
+   "stars": 97934,
+   "forks": 12837,
    "language": "Rust",
    "topics": [
     "awesome",
@@ -1393,7 +1393,7 @@
    "full_name": "Panniantong/Agent-Reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
-   "stars": 97268,
+   "stars": 97274,
    "forks": 8512,
    "language": "Python",
    "topics": [
@@ -1440,8 +1440,8 @@
    "full_name": "punkpeye/awesome-mcp-servers",
    "url": "https://github.com/punkpeye/awesome-mcp-servers",
    "description": "A collection of MCP servers.",
-   "stars": 96330,
-   "forks": 17593,
+   "stars": 96333,
+   "forks": 17594,
    "language": null,
    "topics": [
     "ai",
@@ -1465,8 +1465,8 @@
    "full_name": "Leonxlnx/taste-skill",
    "url": "https://github.com/Leonxlnx/taste-skill",
    "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-   "stars": 96154,
-   "forks": 6530,
+   "stars": 96187,
+   "forks": 6533,
    "language": "JavaScript",
    "topics": [
     "agent-skills",
@@ -1486,7 +1486,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 237,
-   "stars_per_day_lifetime": 405.7,
+   "stars_per_day_lifetime": 405.9,
    "matched": [
     "established:claude-code",
     "established:agent-skills",
@@ -1541,7 +1541,7 @@
    "full_name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 93783,
+   "stars": 93785,
    "forks": 23371,
    "language": "Python",
    "topics": [
@@ -1588,8 +1588,8 @@
    "full_name": "stablyai/orca",
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-   "stars": 92258,
-   "forks": 5887,
+   "stars": 92281,
+   "forks": 5888,
    "language": "TypeScript",
    "topics": [
     "ade",
@@ -1616,7 +1616,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 211,
-   "stars_per_day_lifetime": 437.2,
+   "stars_per_day_lifetime": 437.4,
    "matched": [
     "established:claude-code",
     "established:ai-agents"
@@ -1634,7 +1634,7 @@
    "full_name": "infiniflow/ragflow",
    "url": "https://github.com/infiniflow/ragflow",
    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-   "stars": 92211,
+   "stars": 92213,
    "forks": 10987,
    "language": "Go",
    "topics": [
@@ -1712,7 +1712,7 @@
    "full_name": "OpenHands/OpenHands",
    "url": "https://github.com/OpenHands/OpenHands",
    "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
-   "stars": 90886,
+   "stars": 90888,
    "forks": 12048,
    "language": "TypeScript",
    "topics": [
@@ -1749,7 +1749,7 @@
    "url": "https://github.com/ChatGPTNextWeb/NextChat",
    "description": "\u2728 Zero-config AI chat assistant. No API key needed \u2014 sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.",
    "stars": 88845,
-   "forks": 58831,
+   "forks": 58830,
    "language": "TypeScript",
    "topics": [
     "calclaude",
@@ -1793,7 +1793,7 @@
    "full_name": "koala73/worldmonitor",
    "url": "https://github.com/koala73/worldmonitor",
    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-   "stars": 88439,
+   "stars": 88440,
    "forks": 13531,
    "language": "TypeScript",
    "topics": [
@@ -1833,8 +1833,8 @@
    "full_name": "D4Vinci/Scrapling",
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-   "stars": 87522,
-   "forks": 8993,
+   "stars": 87525,
+   "forks": 8994,
    "language": "Python",
    "topics": [
     "ai",
@@ -1882,7 +1882,7 @@
    "full_name": "Egonex-AI/Understand-Anything",
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-   "stars": 86257,
+   "stars": 86259,
    "forks": 7276,
    "language": "TypeScript",
    "topics": [
@@ -1928,7 +1928,7 @@
    "full_name": "unclecode/crawl4ai",
    "url": "https://github.com/unclecode/crawl4ai",
    "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
-   "stars": 85525,
+   "stars": 85529,
    "forks": 8879,
    "language": "Python",
    "topics": [
@@ -2019,8 +2019,8 @@
    "full_name": "tt-a1i/archify",
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-   "stars": 83436,
-   "forks": 5642,
+   "stars": 83440,
+   "forks": 5643,
    "language": "JavaScript",
    "topics": [
     "agent-skills",
@@ -2049,7 +2049,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 182,
-   "stars_per_day_lifetime": 458.4,
+   "stars_per_day_lifetime": 458.5,
    "matched": [
     "established:claude-code",
     "established:claude-skills",
@@ -2071,7 +2071,7 @@
    "full_name": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "stars": 83329,
+   "stars": 83334,
    "forks": 5290,
    "language": "Rust",
    "topics": [
@@ -2094,7 +2094,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 265,
-   "stars_per_day_lifetime": 314.4,
+   "stars_per_day_lifetime": 314.5,
    "matched": [
     "established:claude-code",
     "established:anthropic",
@@ -2113,7 +2113,7 @@
    "full_name": "lobehub/lobehub",
    "url": "https://github.com/lobehub/lobehub",
    "description": "\ud83e\udd2f LobeHub is your Chief Agent Operator, organizing your agents into 7\u00d724 operations by hiring, scheduling, and reporting on your entire AI team.",
-   "stars": 83234,
+   "stars": 83233,
    "forks": 15980,
    "language": "TypeScript",
    "topics": [
@@ -2159,8 +2159,8 @@
    "full_name": "datawhalechina/hello-agents",
    "url": "https://github.com/datawhalechina/hello-agents",
    "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
-   "stars": 83113,
-   "forks": 10304,
+   "stars": 83116,
+   "forks": 10303,
    "language": "Python",
    "topics": [
     "agent",
@@ -2173,7 +2173,7 @@
    "pushed": "2026-10-13",
    "archived": false,
    "age_days": 402,
-   "stars_per_day_lifetime": 206.7,
+   "stars_per_day_lifetime": 206.8,
    "matched": [
     "established:llm",
     "established:rag"
@@ -2191,7 +2191,7 @@
    "full_name": "netdata/netdata",
    "url": "https://github.com/netdata/netdata",
    "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-   "stars": 80936,
+   "stars": 80935,
    "forks": 6668,
    "language": "Go",
    "topics": [
@@ -2238,7 +2238,7 @@
    "full_name": "shareAI-lab/learn-claude-code",
    "url": "https://github.com/shareAI-lab/learn-claude-code",
    "description": "Bash is all you need -  A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
-   "stars": 78585,
+   "stars": 78586,
    "forks": 12578,
    "language": "Python",
    "topics": [
@@ -2320,7 +2320,7 @@
    "full_name": "microsoft/ai-agents-for-beginners",
    "url": "https://github.com/microsoft/ai-agents-for-beginners",
    "description": "18 Lessons to Get Started Building AI Agents",
-   "stars": 77136,
+   "stars": 77138,
    "forks": 25345,
    "language": "Jupyter Notebook",
    "topics": [
@@ -2353,7 +2353,7 @@
    "full_name": "ComposioHQ/awesome-claude-skills",
    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-   "stars": 77093,
+   "stars": 77095,
    "forks": 9097,
    "language": "Python",
    "topics": [
@@ -2398,8 +2398,8 @@
    "full_name": "diegosouzapw/OmniRoute",
    "url": "https://github.com/diegosouzapw/OmniRoute",
    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
-   "stars": 76458,
-   "forks": 11036,
+   "stars": 76471,
+   "forks": 11038,
    "language": "TypeScript",
    "topics": [
     "a2a",
@@ -2428,7 +2428,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 243,
-   "stars_per_day_lifetime": 314.6,
+   "stars_per_day_lifetime": 314.7,
    "matched": [
     "established:claude-code",
     "established:claude",
@@ -2496,7 +2496,7 @@
    "full_name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "stars": 75341,
+   "stars": 75343,
    "forks": 5848,
    "language": "Python",
    "topics": [
@@ -2550,7 +2550,7 @@
    "full_name": "LosaLosSantos/aurelio-finance",
    "url": "https://github.com/LosaLosSantos/aurelio-finance",
    "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-   "stars": 3365,
+   "stars": 3366,
    "forks": 450,
    "language": "Python",
    "topics": [
@@ -2574,20 +2574,20 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 8,
-   "stars_per_day_lifetime": 420.6,
+   "stars_per_day_lifetime": 420.8,
    "matched": [
     "new:llm"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 3365,
+   "stars_gained_7d": 3366,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "bherbruck/solidcraft",
    "url": "https://github.com/bherbruck/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-   "stars": 2207,
-   "forks": 212,
+   "stars": 2214,
+   "forks": 214,
    "language": "Rust",
    "topics": [
     "3d-modeling",
@@ -2605,20 +2605,20 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 7,
-   "stars_per_day_lifetime": 315.3,
+   "stars_per_day_lifetime": 316.3,
    "matched": [
     "new:mcp"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 2207,
+   "stars_gained_7d": 2214,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "onehumanbeing/esp32-iphone-agent",
    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-   "stars": 2025,
-   "forks": 268,
+   "stars": 2030,
+   "forks": 270,
    "language": "Python",
    "topics": [
     "ai-agent",
@@ -2636,21 +2636,21 @@
    "pushed": "2026-10-13",
    "archived": false,
    "age_days": 3,
-   "stars_per_day_lifetime": 675.0,
+   "stars_per_day_lifetime": 676.7,
    "matched": [
     "new:ai-agent",
     "new:llm",
     "new:automation"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 2025,
+   "stars_gained_7d": 2030,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
    "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cursor / OpenClaw",
-   "stars": 1185,
+   "stars": 1193,
    "forks": 271,
    "language": "Python",
    "topics": [
@@ -2666,19 +2666,19 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 1,
-   "stars_per_day_lifetime": 1185.0,
+   "stars_per_day_lifetime": 1193.0,
    "matched": [
     "new-kw:claude skill"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 1185,
+   "stars_gained_7d": 1193,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "rociiu/talorys",
    "url": "https://github.com/rociiu/talorys",
    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-   "stars": 987,
+   "stars": 988,
    "forks": 90,
    "language": "TypeScript",
    "topics": [
@@ -2697,20 +2697,20 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 4,
-   "stars_per_day_lifetime": 246.8,
+   "stars_per_day_lifetime": 247.0,
    "matched": [
     "new:ai-agent",
     "new-kw:agent memory"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 987,
+   "stars_gained_7d": 988,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "zhuyansen/new-term-radar",
    "url": "https://github.com/zhuyansen/new-term-radar",
    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-   "stars": 933,
+   "stars": 934,
    "forks": 378,
    "language": "Python",
    "topics": [
@@ -2731,7 +2731,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 2,
-   "stars_per_day_lifetime": 466.5,
+   "stars_per_day_lifetime": 467.0,
    "matched": [
     "new:claude-skills",
     "new:agent-skills",
@@ -2740,15 +2740,15 @@
     "new:seo"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 933,
+   "stars_gained_7d": 934,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "marclou/mailcheap",
    "url": "https://github.com/marclou/mailcheap",
    "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-   "stars": 922,
-   "forks": 233,
+   "stars": 924,
+   "forks": 234,
    "language": "JavaScript",
    "topics": [
     "ai-agents",
@@ -2763,20 +2763,54 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 4,
-   "stars_per_day_lifetime": 230.5,
+   "stars_per_day_lifetime": 231.0,
    "matched": [
     "new:mcp",
     "new:ai-agents"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 922,
+   "stars_gained_7d": 924,
+   "growth_basis": "new repo: stars since creation"
+  },
+  {
+   "full_name": "mw00/project-maya",
+   "url": "https://github.com/mw00/project-maya",
+   "description": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
+   "stars": 825,
+   "forks": 95,
+   "language": "C++",
+   "topics": [
+    "cuda",
+    "glm",
+    "glm-5",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "mixture-of-experts",
+    "moe",
+    "openai-api",
+    "quantization",
+    "rocm",
+    "self-hosted"
+   ],
+   "license": "MIT",
+   "created": "2026-10-06",
+   "pushed": "2026-10-14",
+   "archived": false,
+   "age_days": 8,
+   "stars_per_day_lifetime": 103.1,
+   "matched": [
+    "new:llm"
+   ],
+   "stars_7d_ago": null,
+   "stars_gained_7d": 825,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "elstongun/leviathan",
    "url": "https://github.com/elstongun/leviathan",
    "description": "Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-   "stars": 805,
+   "stars": 806,
    "forks": 46,
    "language": "Rust",
    "topics": [],
@@ -2785,12 +2819,12 @@
    "pushed": "2026-10-13",
    "archived": false,
    "age_days": 9,
-   "stars_per_day_lifetime": 89.4,
+   "stars_per_day_lifetime": 89.6,
    "matched": [
     "new-kw:agent memory"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 805,
+   "stars_gained_7d": 806,
    "growth_basis": "new repo: stars since creation"
   },
   {
@@ -2847,7 +2881,7 @@
    "full_name": "Jakeschincariol/founder-skill",
    "url": "https://github.com/Jakeschincariol/founder-skill",
    "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-   "stars": 624,
+   "stars": 626,
    "forks": 63,
    "language": "Python",
    "topics": [
@@ -2863,13 +2897,13 @@
    "pushed": "2026-10-07",
    "archived": false,
    "age_days": 7,
-   "stars_per_day_lifetime": 89.1,
+   "stars_per_day_lifetime": 89.4,
    "matched": [
     "new:claude-skills",
     "new-kw:claude skill"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 624,
+   "stars_gained_7d": 626,
    "growth_basis": "new repo: stars since creation"
   },
   {
@@ -2906,7 +2940,7 @@
    "full_name": "outcrawlai/scout",
    "url": "https://github.com/outcrawlai/scout",
    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-   "stars": 547,
+   "stars": 555,
    "forks": 21,
    "language": "TypeScript",
    "topics": [
@@ -2923,12 +2957,12 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 1,
-   "stars_per_day_lifetime": 547.0,
+   "stars_per_day_lifetime": 555.0,
    "matched": [
     "new:ai-agent"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 547,
+   "stars_gained_7d": 555,
    "growth_basis": "new repo: stars since creation"
   },
   {
@@ -2968,7 +3002,7 @@
    "url": "https://github.com/juliobsz/skills",
    "description": "An agent skill that builds award-caliber websites from one line",
    "stars": 332,
-   "forks": 8,
+   "forks": 9,
    "language": "TypeScript",
    "topics": [
     "agent-skills",
@@ -3001,7 +3035,7 @@
    "full_name": "LingCore/WinShun",
    "url": "https://github.com/LingCore/WinShun",
    "description": "Win\u987a\uff1a\u514d\u8d39\u5f00\u6e90\u7684 Windows \u5feb\u901f\u641c\u7d22\u542f\u52a8\u5668\u3002\u53cc\u51fb Ctrl\uff0c\u62fc\u97f3\u79d2\u641c\u6587\u4ef6\u3001\u5168\u6587\u641c\u7d22 Word/Excel/PDF\u3001\u526a\u8d34\u677f\u5386\u53f2\uff08\u4ee3\u66ff Win+V\uff09\u3001\u5bf9\u8bdd\u6846\u641c\u7d22\u3001\u4efb\u52a1\u680f\u641c\u7d22\u3001\u63d2\u4ef6\u3001AI \u52a9\u624b MCP\u3002Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
-   "stars": 328,
+   "stars": 330,
    "forks": 24,
    "language": "C++",
    "topics": [
@@ -3029,13 +3063,13 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 6,
-   "stars_per_day_lifetime": 54.7,
+   "stars_per_day_lifetime": 55.0,
    "matched": [
     "new:mcp-server",
     "new-kw:mcp server"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 328,
+   "stars_gained_7d": 330,
    "growth_basis": "new repo: stars since creation"
   },
   {
@@ -3161,7 +3195,7 @@
    "url": "https://github.com/HeyCubit/effortless",
    "description": "Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context, and hands off or compacts in one click",
    "stars": 192,
-   "forks": 20,
+   "forks": 21,
    "language": "HTML",
    "topics": [
     "ai-tools",
@@ -3228,7 +3262,7 @@
    "url": "https://github.com/iamumeransari/claude-show-your-work",
    "description": "Claude Code shows images and plays videos right in your terminal: screenshots, Playwright recordings, and synced before/after QA. Ghostty & kitty.",
    "stars": 187,
-   "forks": 15,
+   "forks": 16,
    "language": "TypeScript",
    "topics": [
     "agentic-coding",
@@ -3511,7 +3545,7 @@
    "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
    "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cursor / OpenClaw",
-   "stars": 1185,
+   "stars": 1193,
    "forks": 271,
    "language": "Python",
    "topics": [
@@ -3527,19 +3561,19 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 1,
-   "stars_per_day_lifetime": 1185.0,
+   "stars_per_day_lifetime": 1193.0,
    "matched": [
     "new-kw:claude skill"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 1185,
+   "stars_gained_7d": 1193,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "Ebony-Vinyl/dsh-our-free-model",
    "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
    "description": "\u5728 dsh \u91cc\u88c5\u4e0a\u8fd9\u4e2a\u63d2\u4ef6\u5373\u53ef\uff0c\u65e0\u9700\u767b\u5f55\u3001\u6ce8\u518c\u6216\u586b API Key\uff0c\u5c31\u80fd\u4f7f\u7528\u5305\u62ec DeepSeek V4.1 Flash\u3001Kimi K3 \u5728\u5185\u7684\u524d\u6cbf\u6a21\u578b\u2014\u2014\u5b8c\u5168\u514d\u8d39\uff0c\u4e0d\u9650\u91cf\u3002 All you do is install this plugin in dsh: no login, no sign-up, no API key \u2014 the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-   "stars": 15891,
+   "stars": 15935,
    "forks": 305,
    "language": "JavaScript",
    "topics": [
@@ -3559,7 +3593,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 20,
-   "stars_per_day_lifetime": 794.5,
+   "stars_per_day_lifetime": 796.8,
    "matched": [
     "new:ai-agents",
     "new:llm"
@@ -3572,8 +3606,8 @@
    "full_name": "onehumanbeing/esp32-iphone-agent",
    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-   "stars": 2025,
-   "forks": 268,
+   "stars": 2030,
+   "forks": 270,
    "language": "Python",
    "topics": [
     "ai-agent",
@@ -3591,21 +3625,21 @@
    "pushed": "2026-10-13",
    "archived": false,
    "age_days": 3,
-   "stars_per_day_lifetime": 675.0,
+   "stars_per_day_lifetime": 676.7,
    "matched": [
     "new:ai-agent",
     "new:llm",
     "new:automation"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 2025,
+   "stars_gained_7d": 2030,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "yetone/magpie",
    "url": "https://github.com/yetone/magpie",
    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-   "stars": 12621,
+   "stars": 12638,
    "forks": 863,
    "language": "Go",
    "topics": [
@@ -3621,7 +3655,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 21,
-   "stars_per_day_lifetime": 601.0,
+   "stars_per_day_lifetime": 601.8,
    "matched": [
     "new:claude-code",
     "new:llm"
@@ -3634,7 +3668,7 @@
    "full_name": "outcrawlai/scout",
    "url": "https://github.com/outcrawlai/scout",
    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-   "stars": 547,
+   "stars": 555,
    "forks": 21,
    "language": "TypeScript",
    "topics": [
@@ -3651,19 +3685,19 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 1,
-   "stars_per_day_lifetime": 547.0,
+   "stars_per_day_lifetime": 555.0,
    "matched": [
     "new:ai-agent"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 547,
+   "stars_gained_7d": 555,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "rehan-remade/universal-modder",
    "url": "https://github.com/rehan-remade/universal-modder",
    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-   "stars": 7591,
+   "stars": 7593,
    "forks": 811,
    "language": "Python",
    "topics": [
@@ -3683,7 +3717,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 14,
-   "stars_per_day_lifetime": 542.2,
+   "stars_per_day_lifetime": 542.4,
    "matched": [
     "new:claude-code",
     "new:mcp",
@@ -3697,7 +3731,7 @@
    "full_name": "KKKKhazix/AIHOT",
    "url": "https://github.com/KKKKhazix/AIHOT",
    "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
-   "stars": 7636,
+   "stars": 7637,
    "forks": 1838,
    "language": "TypeScript",
    "topics": [
@@ -3719,7 +3753,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 16,
-   "stars_per_day_lifetime": 477.2,
+   "stars_per_day_lifetime": 477.3,
    "matched": [
     "new:mcp",
     "new:llm"
@@ -3732,7 +3766,7 @@
    "full_name": "zhuyansen/new-term-radar",
    "url": "https://github.com/zhuyansen/new-term-radar",
    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-   "stars": 933,
+   "stars": 934,
    "forks": 378,
    "language": "Python",
    "topics": [
@@ -3753,7 +3787,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 2,
-   "stars_per_day_lifetime": 466.5,
+   "stars_per_day_lifetime": 467.0,
    "matched": [
     "new:claude-skills",
     "new:agent-skills",
@@ -3762,14 +3796,14 @@
     "new:seo"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 933,
+   "stars_gained_7d": 934,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "LosaLosSantos/aurelio-finance",
    "url": "https://github.com/LosaLosSantos/aurelio-finance",
    "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-   "stars": 3365,
+   "stars": 3366,
    "forks": 450,
    "language": "Python",
    "topics": [
@@ -3793,19 +3827,19 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 8,
-   "stars_per_day_lifetime": 420.6,
+   "stars_per_day_lifetime": 420.8,
    "matched": [
     "new:llm"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 3365,
+   "stars_gained_7d": 3366,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "jev-chat/jev-chat-jarvis",
    "url": "https://github.com/jev-chat/jev-chat-jarvis",
    "description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android \u00b7 Windows \u00b7 macOS \u00b7 iOS | \u804a\u5929\u8f85\u52a9\u51b3\u7b56\u5de5\u5177\uff1a\u5148\u770b\u61c2\u5bf9\u65b9\u518d\u56de\u590d\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002",
-   "stars": 7742,
+   "stars": 7743,
    "forks": 1266,
    "language": "Kotlin",
    "topics": [
@@ -3824,7 +3858,7 @@
    "pushed": "2026-10-08",
    "archived": false,
    "age_days": 23,
-   "stars_per_day_lifetime": 336.6,
+   "stars_per_day_lifetime": 336.7,
    "matched": [
     "new:llm"
    ],
@@ -3836,7 +3870,7 @@
    "full_name": "shader-effects-inc/shaders",
    "url": "https://github.com/shader-effects-inc/shaders",
    "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
-   "stars": 4833,
+   "stars": 4834,
    "forks": 201,
    "language": "TypeScript",
    "topics": [
@@ -3855,7 +3889,7 @@
    "pushed": "2026-10-09",
    "archived": false,
    "age_days": 15,
-   "stars_per_day_lifetime": 322.2,
+   "stars_per_day_lifetime": 322.3,
    "matched": [
     "new:mcp"
    ],
@@ -3867,8 +3901,8 @@
    "full_name": "bherbruck/solidcraft",
    "url": "https://github.com/bherbruck/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-   "stars": 2207,
-   "forks": 212,
+   "stars": 2214,
+   "forks": 214,
    "language": "Rust",
    "topics": [
     "3d-modeling",
@@ -3886,12 +3920,12 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 7,
-   "stars_per_day_lifetime": 315.3,
+   "stars_per_day_lifetime": 316.3,
    "matched": [
     "new:mcp"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 2207,
+   "stars_gained_7d": 2214,
    "growth_basis": "new repo: stars since creation"
   },
   {
@@ -3899,7 +3933,7 @@
    "url": "https://github.com/Louis-CFM/coucou",
    "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
    "stars": 5180,
-   "forks": 875,
+   "forks": 877,
    "language": "Swift",
    "topics": [
     "ai-agents",
@@ -3943,7 +3977,7 @@
    "full_name": "yihui-dev/awesome-opus5-5-videos",
    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-   "stars": 4989,
+   "stars": 4994,
    "forks": 522,
    "language": null,
    "topics": [
@@ -3962,7 +3996,7 @@
    "pushed": "2026-10-13",
    "archived": false,
    "age_days": 17,
-   "stars_per_day_lifetime": 293.5,
+   "stars_per_day_lifetime": 293.8,
    "matched": [
     "new:claude"
    ],
@@ -3975,7 +4009,7 @@
    "url": "https://github.com/tamaratran/fast-jev-compaction",
    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
    "stars": 7629,
-   "forks": 548,
+   "forks": 549,
    "language": "TypeScript",
    "topics": [],
    "license": "MIT",
@@ -3996,7 +4030,7 @@
    "url": "https://github.com/QingYunA/answer-me-with-html",
    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
    "stars": 3351,
-   "forks": 228,
+   "forks": 229,
    "language": "JavaScript",
    "topics": [
     "agent-skill",
@@ -4033,7 +4067,7 @@
    "full_name": "rociiu/talorys",
    "url": "https://github.com/rociiu/talorys",
    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-   "stars": 987,
+   "stars": 988,
    "forks": 90,
    "language": "TypeScript",
    "topics": [
@@ -4052,13 +4086,13 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 4,
-   "stars_per_day_lifetime": 246.8,
+   "stars_per_day_lifetime": 247.0,
    "matched": [
     "new:ai-agent",
     "new-kw:agent memory"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 987,
+   "stars_gained_7d": 988,
    "growth_basis": "new repo: stars since creation"
   },
   {
@@ -4087,7 +4121,7 @@
    "full_name": "Jakeschincariol/replica-skill",
    "url": "https://github.com/Jakeschincariol/replica-skill",
    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-   "stars": 2544,
+   "stars": 2545,
    "forks": 377,
    "language": "Python",
    "topics": [
@@ -4106,7 +4140,7 @@
    "pushed": "2026-10-03",
    "archived": false,
    "age_days": 11,
-   "stars_per_day_lifetime": 231.3,
+   "stars_per_day_lifetime": 231.4,
    "matched": [
     "new:claude-code",
     "new:claude",
@@ -4122,8 +4156,8 @@
    "full_name": "marclou/mailcheap",
    "url": "https://github.com/marclou/mailcheap",
    "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-   "stars": 922,
-   "forks": 233,
+   "stars": 924,
+   "forks": 234,
    "language": "JavaScript",
    "topics": [
     "ai-agents",
@@ -4138,21 +4172,21 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 4,
-   "stars_per_day_lifetime": 230.5,
+   "stars_per_day_lifetime": 231.0,
    "matched": [
     "new:mcp",
     "new:ai-agents"
    ],
    "stars_7d_ago": null,
-   "stars_gained_7d": 922,
+   "stars_gained_7d": 924,
    "growth_basis": "new repo: stars since creation"
   },
   {
    "full_name": "edenfunf/reelmimic",
    "url": "https://github.com/edenfunf/reelmimic",
    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-   "stars": 3088,
-   "forks": 305,
+   "stars": 3089,
+   "forks": 306,
    "language": "JavaScript",
    "topics": [
     "2d-animation",
@@ -4170,7 +4204,7 @@
    "pushed": "2026-10-12",
    "archived": false,
    "age_days": 16,
-   "stars_per_day_lifetime": 193.0,
+   "stars_per_day_lifetime": 193.1,
    "matched": [
     "new:claude-code",
     "new:ai-agents"
@@ -4183,7 +4217,7 @@
    "full_name": "kaankiziltug/logo-design-skill",
    "url": "https://github.com/kaankiziltug/logo-design-skill",
    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-   "stars": 3299,
+   "stars": 3301,
    "forks": 248,
    "language": "HTML",
    "topics": [
@@ -4201,7 +4235,7 @@
    "pushed": "2026-09-30",
    "archived": false,
    "age_days": 18,
-   "stars_per_day_lifetime": 183.3,
+   "stars_per_day_lifetime": 183.4,
    "matched": [
     "new:claude",
     "new:claude-skills",
@@ -4216,7 +4250,7 @@
    "full_name": "feder-cr/invisible_playwright_mcp",
    "url": "https://github.com/feder-cr/invisible_playwright_mcp",
    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
-   "stars": 2749,
+   "stars": 2748,
    "forks": 447,
    "language": "Python",
    "topics": [
@@ -4246,7 +4280,7 @@
    "pushed": "2026-10-13",
    "archived": false,
    "age_days": 15,
-   "stars_per_day_lifetime": 183.3,
+   "stars_per_day_lifetime": 183.2,
    "matched": [
     "new:mcp-server",
     "new:model-context-protocol",
@@ -4260,7 +4294,7 @@
    "full_name": "Human-Agent-Society/reef",
    "url": "https://github.com/Human-Agent-Society/reef",
    "description": "Infrastructure for continually self\u2011improving agents",
-   "stars": 7595,
+   "stars": 7596,
    "forks": 708,
    "language": "Python",
    "topics": [
@@ -4292,7 +4326,7 @@
    "url": "https://github.com/juliobsz/skills",
    "description": "An agent skill that builds award-caliber websites from one line",
    "stars": 332,
-   "forks": 8,
+   "forks": 9,
    "language": "TypeScript",
    "topics": [
     "agent-skills",
@@ -4356,7 +4390,7 @@
    "full_name": "dzhng/jevgrep",
    "url": "https://github.com/dzhng/jevgrep",
    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-   "stars": 2677,
+   "stars": 2678,
    "forks": 198,
    "language": "TypeScript",
    "topics": [
@@ -4378,7 +4412,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 18,
-   "stars_per_day_lifetime": 148.7,
+   "stars_per_day_lifetime": 148.8,
    "matched": [
     "new:claude-code"
    ],
@@ -4391,7 +4425,7 @@
    "url": "https://github.com/nanaism/yomiyasu",
    "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
    "stars": 1969,
-   "forks": 48,
+   "forks": 49,
    "language": "Python",
    "topics": [
     "agent-skills",
@@ -4428,7 +4462,7 @@
    "full_name": "jiwoochris/artex-global",
    "url": "https://github.com/jiwoochris/artex-global",
    "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c(upstream: Autumn-27/ARTEX, AGPL-3.0)",
-   "stars": 1481,
+   "stars": 1482,
    "forks": 1766,
    "language": "Go",
    "topics": [
@@ -4452,7 +4486,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 11,
-   "stars_per_day_lifetime": 134.6,
+   "stars_per_day_lifetime": 134.7,
    "matched": [
     "new:ai-agent",
     "new:llm"
@@ -4465,7 +4499,7 @@
    "full_name": "lemomo-ai/lemo-opuscar",
    "url": "https://github.com/lemomo-ai/lemo-opuscar",
    "description": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. \u00b7 Opus5.5 x 43 \u79cd\u5f71\u7247\u98ce\u683c\uff1a\u98ce\u683c\u63d0\u793a\u8bcd + \u7eaf\u4ee3\u7801\u6837\u7247 + \u5bfc\u6f14\u4e0e\u6280\u672f\u6307\u5357",
-   "stars": 2314,
+   "stars": 2317,
    "forks": 246,
    "language": "JavaScript",
    "topics": [
@@ -4495,7 +4529,7 @@
    "pushed": "2026-10-13",
    "archived": false,
    "age_days": 18,
-   "stars_per_day_lifetime": 128.6,
+   "stars_per_day_lifetime": 128.7,
    "matched": [
     "new:claude-code",
     "new:claude",
@@ -4540,7 +4574,7 @@
    "full_name": "bojieli/ai-infra-book",
    "url": "https://github.com/bojieli/ai-infra-book",
    "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Infra\uff1a\u91cf\u5316\u5206\u6790\u4e0e\u7cfb\u7edf\u8bbe\u8ba1\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e66\u7a3f\uff1a\u4ece\u786c\u4ef6\u7ea6\u675f\u548c\u6a21\u578b\u67b6\u6784\u51fa\u53d1\uff0c\u91cf\u5316\u63a8\u5bfc LLM \u63a8\u7406\u4e0e\u8bad\u7ec3\u7cfb\u7edf\u8bbe\u8ba1\u3002\u542b\u5168\u4e66\u6b63\u6587\u3001PDF\u3001\u914d\u5957\u8ba1\u7b97\u5de5\u5177\u4e0e\u5b9e\u9a8c",
-   "stars": 6485,
+   "stars": 6487,
    "forks": 492,
    "language": "Python",
    "topics": [
@@ -4577,8 +4611,8 @@
    "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
    "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
    "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
-   "stars": 5331,
-   "forks": 368,
+   "stars": 5332,
+   "forks": 369,
    "language": "Shell",
    "topics": [
     "ai-seo",
@@ -4658,8 +4692,8 @@
    "full_name": "jub0t/concat",
    "url": "https://github.com/jub0t/concat",
    "description": "\u2b50 Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.",
-   "stars": 5400,
-   "forks": 516,
+   "stars": 5414,
+   "forks": 517,
    "language": "Rust",
    "topics": [
     "ffmpeg",
@@ -4683,7 +4717,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 50,
-   "stars_per_day_lifetime": 108.0,
+   "stars_per_day_lifetime": 108.3,
    "matched": [
     "established:model-context-protocol",
     "new:model-context-protocol"
@@ -4696,7 +4730,7 @@
    "full_name": "Oldcircle/geo-sleuth",
    "url": "https://github.com/Oldcircle/geo-sleuth",
    "description": "An agent skill that finds where a photo was taken \u2014 OpenStreetMap geometry, elevation skylines, satellite imagery and street view \u2014 and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
-   "stars": 2724,
+   "stars": 2728,
    "forks": 354,
    "language": "Python",
    "topics": [
@@ -4724,7 +4758,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 26,
-   "stars_per_day_lifetime": 104.8,
+   "stars_per_day_lifetime": 104.9,
    "matched": [
     "new:claude-code",
     "new:agent-skills",
@@ -4739,7 +4773,7 @@
    "full_name": "oil-oil/oil-ui",
    "url": "https://github.com/oil-oil/oil-ui",
    "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. \u7ed9 AI Agent \u7528\u7684 UI \u8bbe\u8ba1 Skill\u3002",
-   "stars": 1467,
+   "stars": 1468,
    "forks": 79,
    "language": "Python",
    "topics": [
@@ -4757,7 +4791,7 @@
    "pushed": "2026-10-14",
    "archived": false,
    "age_days": 14,
-   "stars_per_day_lifetime": 104.8,
+   "stars_per_day_lifetime": 104.9,
    "matched": [
     "new:claude-code",
     "new:claude-skills",
@@ -4769,10 +4803,44 @@
    "growth_basis": "no prior snapshot yet"
   },
   {
+   "full_name": "mw00/project-maya",
+   "url": "https://github.com/mw00/project-maya",
+   "description": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
+   "stars": 825,
+   "forks": 95,
+   "language": "C++",
+   "topics": [
+    "cuda",
+    "glm",
+    "glm-5",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "mixture-of-experts",
+    "moe",
+    "openai-api",
+    "quantization",
+    "rocm",
+    "self-hosted"
+   ],
+   "license": "MIT",
+   "created": "2026-10-06",
+   "pushed": "2026-10-14",
+   "archived": false,
+   "age_days": 8,
+   "stars_per_day_lifetime": 103.1,
+   "matched": [
+    "new:llm"
+   ],
+   "stars_7d_ago": null,
+   "stars_gained_7d": 825,
+   "growth_basis": "new repo: stars since creation"
+  },
+  {
    "full_name": "ApodexAI/FrontierAgent",
    "url": "https://github.com/ApodexAI/FrontierAgent",
    "description": "\ud83e\udde9 FrontierAgent, our agent framework, open-sourced alongside it \u2014 native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-   "stars": 5248,
+   "stars": 5249,
    "forks": 295,
    "language": "Python",
    "topics": [
@@ -4830,27 +4898,6 @@
    "stars_7d_ago": null,
    "stars_gained_7d": null,
    "growth_basis": "no prior snapshot yet"
-  },
-  {
-   "full_name": "elstongun/leviathan",
-   "url": "https://github.com/elstongun/leviathan",
-   "description": "Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-   "stars": 805,
-   "forks": 46,
-   "language": "Rust",
-   "topics": [],
-   "license": "Apache-2.0",
-   "created": "2026-10-05",
-   "pushed": "2026-10-13",
-   "archived": false,
-   "age_days": 9,
-   "stars_per_day_lifetime": 89.4,
-   "matched": [
-    "new-kw:agent memory"
-   ],
-   "stars_7d_ago": null,
-   "stars_gained_7d": 805,
-   "growth_basis": "new repo: stars since creation"
   }
  ],
  "watched_commits_7d": {
